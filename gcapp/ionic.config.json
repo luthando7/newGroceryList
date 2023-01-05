@@ -1,0 +1,7 @@
+{
+  "name": "gcapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
